@@ -8,4 +8,4 @@
 
 
 #### Issue
-Solves: <!-- replace with link to your issue! --> 
+resolves <!-- replace with link to your issue! --> 
